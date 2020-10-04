@@ -4,7 +4,7 @@ Why not spend a ton of time making motd interesting?
 When placed in /etc/profile.d/ or /etc/update-motd.d/ or whatever your distribution's desired location, it produces a cheery motd when you log in: 
 
 <pre><code>
-Welcome to pihole1, root!
+Welcome to generic_box, someguy!
 
    .~~.   .~~.       Sunday,  4 October 2020, 04:37:52 AM
   '. \ ' ' / .'      Uptime.............: up 5 hours, 24 minutes
