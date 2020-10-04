@@ -3,6 +3,7 @@ Why not spend a ton of time making motd interesting?
 
 When placed in /etc/profile.d/ or /etc/update-motd.d/ or whatever your distribution's desired location, it produces a cheery motd when you log in: 
 
+<pre><code>
 Welcome to pihole1, root!
 
    .~~.   .~~.       Sunday,  4 October 2020, 04:37:52 AM
@@ -15,3 +16,4 @@ Welcome to pihole1, root!
   (  : '~' :  )      Disk Space.........: Free: 23G | Used: 1.2G 5%
    '~ .~~~. ~'       Current Weather: 🌫  Mist, +14°C, 89%, 0km/h, 1018hPa
        '~'
+</pre></code>
